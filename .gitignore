@@ -1,0 +1,8 @@
+.eclipse
+.cproject
+.project
+[dD]ebug
+.settings
+.DS_Store
+build
+[Bb]uild*
